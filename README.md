@@ -1,2 +1,2 @@
 # hello-world
-Firsr GitHub Repository. Using this to Learn GitHub
+First GitHub Repository. Using this to Learn GitHub
